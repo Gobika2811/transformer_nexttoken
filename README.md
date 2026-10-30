@@ -118,6 +118,3 @@ MAX_STEPS  = 3000
 
 ---
 
-## 📄 License
-
-This project is released for educational purposes. Feel free to use and adapt it.
